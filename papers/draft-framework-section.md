@@ -12,3 +12,10 @@ The framework is grounded in three core ideas:
 Rather than introducing new identity infrastructures, the framework
 operates as a complementary layer that aligns with existing academic,
 legal, and institutional practices.
+
+
+The framework is intentionally lightweight and non-prescriptive.
+It does not mandate specific technologies, platforms, or identity
+mechanisms. Instead, it provides a principled structure that can be
+adapted across disciplines, jurisdictions, and institutional contexts
+without imposing additional infrastructural burdens.

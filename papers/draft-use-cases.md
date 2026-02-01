@@ -19,3 +19,9 @@ with institutional onboarding processes applied only at later stages.
 Funding bodies evaluate research proposals based on documented research
 outputs and ethical disclosures, reducing reliance on institutional
 affiliation as a proxy for credibility.
+
+These scenarios are illustrative rather than exhaustive. They demonstrate
+how trust can be established incrementally through transparent research
+activity while preserving flexibility for institutional, legal, and
+disciplinary requirements. The framework does not prescribe uniform
+processes but supports context-sensitive adoption.
