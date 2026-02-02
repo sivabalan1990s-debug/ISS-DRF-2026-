@@ -1,17 +1,30 @@
 # Intelligent Systems and Secure Digital Research Frameworks (ISS-DRF)
 
-Introduction
+## Abstract
 
-Problem Statement
+## Keywords
 
-Trust-Aware Research Framework
+## 1. Introduction
+<<paste content>>
 
-Ethical and Legal Considerations
+## 2. Problem Statement
+<<paste content>>
 
-Use Cases and Scenarios
+## 3. Trust-Aware Research Framework
+<<paste content>>
 
-Discussion
+## 4. Use Cases and Scenarios
+<<paste content>>
 
-Limitations and Future Work
+## 5. Ethical and Legal Considerations
+<<paste content>>
 
-Conclusion
+## 6. Discussion
+
+## 7. Limitations and Future Work
+
+## 8. Conclusion
+
+## Acknowledgment (optional)
+
+## References (placeholder)
