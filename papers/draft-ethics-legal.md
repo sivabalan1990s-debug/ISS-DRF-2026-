@@ -15,3 +15,4 @@ By explicitly separating intellectual credibility from formal identity
 disclosure, the framework seeks to reduce unnecessary exposure of
 personal data and mitigate risks associated with surveillance,
 misuse, or identity profiling.
+

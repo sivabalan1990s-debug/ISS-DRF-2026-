@@ -25,3 +25,4 @@ how trust can be established incrementally through transparent research
 activity while preserving flexibility for institutional, legal, and
 disciplinary requirements. The framework does not prescribe uniform
 processes but supports context-sensitive adoption.
+ 

@@ -1,3 +1,5 @@
+# Intelligent Systems and Secure Digital Research Frameworks (ISS-DRF)
+
 # Trust-Aware Research Framework
 
 This document outlines a conceptual framework for conducting
@@ -84,3 +86,4 @@ personal or institutional identity information.
 ## Scope
 This workflow complements existing institutional and legal systems.
 It does not replace passports, visas, affiliations, or credentials.
+

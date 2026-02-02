@@ -19,3 +19,4 @@ It does not mandate specific technologies, platforms, or identity
 mechanisms. Instead, it provides a principled structure that can be
 adapted across disciplines, jurisdictions, and institutional contexts
 without imposing additional infrastructural burdens.
+
